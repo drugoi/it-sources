@@ -50,6 +50,8 @@
 
 ### Г
 
+- Горбатюк Максим. Канал [maxim.dev](https://t.me/mgorbatyuk_dev), [блог](https://maximgorbatyuk.github.io/). Пишет о тимлидстве, процессах разработки, хаках в .NET
+
 ### Ғ
 
 ### Д
